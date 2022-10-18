@@ -1,4 +1,4 @@
-# Disappearing-People - Person removal from complex backgrounds over time. 🕵️
+# Disappearing-People - Removing a person from complex backgrounds over time. 🕵️
 Removing people from complex backgrounds in real time using TensorFlow.js in the web browser using JavaScript. <img src="https://user-images.githubusercontent.com/32507674/136237051-a9c95adb-410d-43c4-8dce-b2976903fc84.png" width=24px>
 
 
