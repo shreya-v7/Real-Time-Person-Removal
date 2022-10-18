@@ -14,9 +14,9 @@ This is an experiment. It may not be perfect in all situations.
 ![disappearing people](https://user-images.githubusercontent.com/4972997/74691149-882fce00-5196-11ea-80bc-f1b9cb3ff275.gif)
 
 
-## Live Demos
+## Live Demo
 
-Go ahead and try it right now in your own web browser. Pick your preference and give me a fork / like 😄
+Go ahead and try it right now in your own web browser. Pick your preference and give me a fork or a like 😄
 
 Codepen.io: https://codepen.io/jasonmayes/pen/GRJqgma
 
