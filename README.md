@@ -1,4 +1,4 @@
-# Disappearing-People - Person removal from complex backgrounds over time. 🕵️
+# Disappearing humans - Person removal from complex backgrounds over time. 🕵️
 Removing people from complex backgrounds in real time using TensorFlow.js in the web browser using JavaScript. <img src="https://user-images.githubusercontent.com/32507674/136237051-a9c95adb-410d-43c4-8dce-b2976903fc84.png" width=24px>
 
 
@@ -12,9 +12,9 @@ This is an experiment. It may not be perfect in all situations.
 ![disappearing people](https://user-images.githubusercontent.com/4972997/74691149-882fce00-5196-11ea-80bc-f1b9cb3ff275.gif)
 
 
-## Live Demos
+## Live Demo
 
-Go ahead and try it right now in your own web browser. Pick your preference and give me a fork / like 😄
+Go ahead and try it right now in your own web browser. Pick your preference and give me a fork or a like 😄
 
 Codepen.io: https://codepen.io/jasonmayes/pen/GRJqgma
 
