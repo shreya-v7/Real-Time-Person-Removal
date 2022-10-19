@@ -10,7 +10,7 @@ Removing people from complex backgrounds in real time using TensorFlow.js in the
 This code attempts to learn over time the makeup of the background present in the video so that I can attempt to remove any humans present in the scene. This is all happening in real time, in the browser, using TensorFlow.js. #MadeWithTFJS <img src="https://user-images.githubusercontent.com/32507674/136237408-dbf3728d-b41b-441d-a5e5-599b0f6e8dd4.png" width=24px>
 
 
-This is an experiment. It may not be perfect in all situations.
+This is an experiment. It may not work perfectly in all situations.
 ![disappearing people](https://user-images.githubusercontent.com/4972997/74691149-882fce00-5196-11ea-80bc-f1b9cb3ff275.gif)
 
 
